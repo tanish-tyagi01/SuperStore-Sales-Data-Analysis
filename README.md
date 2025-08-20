@@ -3,38 +3,44 @@ A Data Analytics Project based on a superstore sales dataset of US( United State
 
 🎯 Objective:
 The objective of analyzing superstore sales dataset is to derive actionable insights into sales performance, profitability. Here are some areas where I had more focus:
--> Identify top-performing categories, regions, products
 
--> Detect sales trends over time
+  -> Identify top-performing categories, regions, products
 
--> Analyze customer behavior to optimize marketing and promotional strategies.
+  -> Detect sales trends over time
 
--> provide data-driven recommendation for improving revenue growth.
+  -> Analyze customer behavior to optimize marketing and promotional strategies.
+
+  -> provide data-driven recommendation for improving revenue growth.
 
 📊 Key Insights:
 1. Total Sales & Profit:
+
 ->Sales grew 77.29% in 2020 compared to 2019 (~$436.45K increase).
 
 ->Profit growth was only 14% (~$93.44K in 2020 vs $81.82K in 2019), highlighting margin pressures.
 
-3. Top Performing Segments & Categories:
+2. Top Performing Segments & Categories:
+   
 ->Office Supplies contributed the most to total sales.
 
 ->Technology products drove the highest profit.
 
-5. Shipment & Payment Insights:
-->Standard Class shipment mode contributed the most to both sales and profit.
+3. Shipment & Payment Insights:
 
-->Cash on Delivery emerged as the most used payment method.
+  ->Standard Class shipment mode contributed the most to both sales and profit.
 
-7. Monthly Trends & Forecasting:
-->October 2019 saw low sales, but profit increased.
+  ->Cash on Delivery emerged as the most used payment method.
 
-->20-day sales forecast indicates a steady upward trend (~$69K expected sales).
+4. Monthly Trends & Forecasting:
+
+  ->October 2019 saw low sales, but profit increased.
+
+  ->20-day sales forecast indicates a steady upward trend (~$69K expected sales).
 
 Recommendations:
+
 1. Focus on Q1 and Q4 to boost profit.
-2. 
+  
 3. Prioritize the Technology category for higher margins.
 
 ### 🛠 Tools & Skills: Tools: [Power BI | SQL] Skills: Data Cleaning | KPI Analysis | Data Visualization | Forecasting | Data Modeling
