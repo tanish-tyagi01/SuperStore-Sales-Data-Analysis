@@ -1,14 +1,11 @@
 # SuperStore-Sales-Data-Analysis
 A Data Analytics Project based on a superstore sales dataset of US( United States) for year (2019-2020).
-
 🎯 Objective:
 The objective of analyzing superstore sales dataset is to derive actionable insights into sales performance, profitability. Here are some areas where I had more focus:
 -> Identify top-performing categories, regions, products
 -> Detect sales trends over time
 -> Analyze customer behavior to optimize marketing and promotional strategies.
 -> provide data-driven recommendation for improving revenue growth.
-
-🛠 Tools & Skills: Tools: [Power BI | SQL] Skills: Data Cleaning | KPI Analysis | Data Visualization | Forecasting | Data Modeling
 
 📊 Key Insights:
 1. Total Sales & Profit:
@@ -22,11 +19,10 @@ The objective of analyzing superstore sales dataset is to derive actionable insi
 ->Cash on Delivery emerged as the most used payment method.
 4. Monthly Trends & Forecasting:
 ->October 2019 saw low sales, but profit increased.
+->20-day sales forecast indicates a steady upward trend (~$69K expected sales).
 
 Recommendations:
 1. Focus on Q1 and Q4 to boost profit.
 2. Prioritize the Technology category for higher margins.
 
-## Skills: Microsoft Power BI · MS Excel · SQL · Data Cleaning · Business Acumen · Data Analysis · Sales Forecasting
-->20-day sales forecast indicates a steady upward trend (~$69K expected sales).
-
+## 🛠 Tools & Skills: Tools: [Power BI | SQL] Skills: Data Cleaning | KPI Analysis | Data Visualization | Forecasting | Data Modeling
