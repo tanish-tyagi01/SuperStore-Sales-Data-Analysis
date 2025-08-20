@@ -14,22 +14,27 @@ The objective of analyzing superstore sales dataset is to derive actionable insi
 📊 Key Insights:
 1. Total Sales & Profit:
 ->Sales grew 77.29% in 2020 compared to 2019 (~$436.45K increase).
+
 ->Profit growth was only 14% (~$93.44K in 2020 vs $81.82K in 2019), highlighting margin pressures.
 
-2. Top Performing Segments & Categories:
+3. Top Performing Segments & Categories:
 ->Office Supplies contributed the most to total sales.
+
 ->Technology products drove the highest profit.
 
-4. Shipment & Payment Insights:
+5. Shipment & Payment Insights:
 ->Standard Class shipment mode contributed the most to both sales and profit.
+
 ->Cash on Delivery emerged as the most used payment method.
 
-6. Monthly Trends & Forecasting:
+7. Monthly Trends & Forecasting:
 ->October 2019 saw low sales, but profit increased.
+
 ->20-day sales forecast indicates a steady upward trend (~$69K expected sales).
 
 Recommendations:
 1. Focus on Q1 and Q4 to boost profit.
-2. Prioritize the Technology category for higher margins.
+2. 
+3. Prioritize the Technology category for higher margins.
 
 ### 🛠 Tools & Skills: Tools: [Power BI | SQL] Skills: Data Cleaning | KPI Analysis | Data Visualization | Forecasting | Data Modeling
